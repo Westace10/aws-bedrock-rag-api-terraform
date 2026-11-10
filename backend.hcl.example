@@ -1,0 +1,4 @@
+bucket         = "tfstate-123456789012-eu-west-2-aws-bedrock-rag-api-terraform"
+key            = "bedrock-rag-api/dev.tfstate"
+region         = "eu-west-2"
+dynamodb_table = "tfstate-locks-aws-bedrock-rag-api-terraform"

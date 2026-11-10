@@ -1,0 +1,7 @@
+region      = "eu-west-2"
+owner       = "akeem.ashaolu"
+alert_email = "you@example.com"
+
+# Check both models are enabled for your account in Bedrock > Model access for this region
+embedding_model_id  = "amazon.titan-embed-text-v2:0"
+generation_model_id = "anthropic.claude-3-haiku-20240307-v1:0"
